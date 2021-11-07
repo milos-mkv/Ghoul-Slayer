@@ -1,5 +1,5 @@
 # Ghoul-Slayer
-3D first person shotter written in Java LibGDX.
+3D first person shooter written in Java LibGDX.
 
 Since this game was ported from desktop game to mobile it still has some bugs.
 
